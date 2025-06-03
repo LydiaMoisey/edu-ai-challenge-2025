@@ -1,0 +1,7 @@
+Convert the following QA note “The logout button doesn't work in Safari. It just doesn't respond.” into a clear, well-structured bug ticket for developers, similar to those in Jira, for example. The output should follow this format: 
+- Title
+- Description
+- Steps to Reproduce
+- Expected vs Actual Behavior
+- Environment (if known)
+- Severity or Impact
