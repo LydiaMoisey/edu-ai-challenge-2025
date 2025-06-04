@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "document_title": "Remote Work Overview",
+    "paragraphs_analyzed": 3,
+    "summary_type": "abstractive",
+    "sentiment_scale": "[-1 = very negative, 0 = neutral, 1 = very positive]"
+  },
+  "analysis": [
+    {
+      "paragraph": 1,
+      "abstractive_summary": "Remote work has surged in popularity, especially post-pandemic, offering benefits such as improved job satisfaction and lower company costs due to reduced office needs.",
+      "sentiment": "positive",
+      "sentiment_score": 0.8
+    },
+    {
+      "paragraph": 2,
+      "abstractive_summary": "Despite its perks, remote work presents issues like social isolation, productivity challenges, and difficulties in performance tracking and communication for employers.",
+      "sentiment": "negative",
+      "sentiment_score": -0.6
+    },
+    {
+      "paragraph": 3,
+      "abstractive_summary": "Remote work is expected to continue with companies embracing hybrid models supported by evolving technologies that enhance virtual collaboration.",
+      "sentiment": "positive",
+      "sentiment_score": 0.7
+    }
+  ]
+}
