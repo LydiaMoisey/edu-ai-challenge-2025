@@ -1,4 +1,4 @@
-1. Generate an Extractive Summarization of the text in the attached doc.
+1. Generate an Abstractive Summarization of each paragraph from the attached document
 2. Perform a Sentiment Analysis and classify it as positive, neutral, or negative of each block of text.
 3. Provide a sentiment score from -1 to 1, where -1 for very negative, 0 for neutral, +1 for very positive.
 4. Return the results in a structured JSON format, including all of the above and any relevant metadata you deem useful.
